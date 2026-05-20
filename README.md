@@ -1,10 +1,10 @@
-# 🏦 NL2SQL Banking Analytics Chatbot
+#NL2SQL Banking Analytics Chatbot
 
 An end-to-end GenAI application that converts natural language questions into SQL queries for banking analytics using OpenAI, SQLite, and Streamlit.
 
 ---
 
-# 🚀 Features
+# Features
 
 - Natural Language → SQL generation using OpenAI API
 - SQLite banking database with synthetic customer/account/transaction data
@@ -15,7 +15,7 @@ An end-to-end GenAI application that converts natural language questions into SQ
 
 ---
 
-# 🧠 Example Questions
+# Example Questions
 
 - How many customers do we have?
 - What is the average account balance?
@@ -25,7 +25,7 @@ An end-to-end GenAI application that converts natural language questions into SQ
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 User Question
 ↓
@@ -41,7 +41,7 @@ Query Results in Streamlit
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -54,7 +54,7 @@ Query Results in Streamlit
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 nl2sql-banking-chatbot/
